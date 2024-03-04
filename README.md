@@ -8,7 +8,7 @@
 
 ### Part 1
 
-## 🔧 Création de l'entité JPA Patient <a name="creation-entite"></a>
+##  Création de l'entité JPA Patient <a name="creation-entite"></a>
 
 ```java
 @Entity
